@@ -4,7 +4,7 @@
 
 
 
-const lettre = ["a" , "e" , "i" , "u" , "o" , "y"] intialisation de mes voyelles pour la vérification plus tard
+const lettre = ["a" , "e" , "i" , "u" , "o" , "y"] intialisation de mes voyelles pour la vérification plus tard ,
 let tab = prompt("entrez une phrases se terminant pas un point")  demande une phrase a l'utilisateur
 
 while (tab[tab.length-1] !== ".") {
